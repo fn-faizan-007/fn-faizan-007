@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="assets/faizan.jpg" width="125" height="125" style="border-radius:50%;" />
+<img src="assets/faizan.jpg" width="125" height="125" />
 
 <br/><br/>
 
@@ -18,13 +18,13 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 WHO AM I?
 
 <div align="center">
 
-### Hi, I'm Muhammad Faizan 👋
+### Hi, I'm Muhammad Faizan 
 
-**Math With Data Science Student • Web Developer • Software Developer**
+**Data Science Student • Web Developer • Math**
 
 I love turning ideas into real-world software and continuously improving my development skills.
 
@@ -34,8 +34,6 @@ I love turning ideas into real-world software and continuously improving my deve
 
 🚀 Exploring **AI, Automation & Modern Software Development**
 
-🧠 *Learn → Build → Improve → Repeat*
-
 </div>
 
 ---
@@ -44,7 +42,7 @@ I love turning ideas into real-world software and continuously improving my deve
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,nodejs,git,github,vscode,react,mysql,linux,figma&perline=14" />
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,nodejs,git,github,vscode,react,mysql,linux,figma&perline=10" />
 
 </div>
 
@@ -59,13 +57,15 @@ I love turning ideas into real-world software and continuously improving my deve
 
 <td width="33%" align="center">
 
-### 🌐 WSU Consultant
-
 <img src="assets/wsu-consultant.png" width="260"/>
+
+<br/><br/>
+
+<b>WSU Consultant</b>
 
 <br/>
 
-Education & Study Abroad Consultancy Website with a modern professional interface.
+Education & Study Abroad Consultancy Website.
 
 <br/><br/>
 
@@ -77,13 +77,15 @@ Education & Study Abroad Consultancy Website with a modern professional interfac
 
 <td width="33%" align="center">
 
-### 👕 Best Sourcing
-
 <img src="assets/best-sourcing.png" width="260"/>
+
+<br/><br/>
+
+<b>Best Sourcing</b>
 
 <br/>
 
-Premium garments sourcing website focused on modern branding and clean UI.
+Premium garments sourcing website with modern UI.
 
 <br/><br/>
 
@@ -95,13 +97,15 @@ Premium garments sourcing website focused on modern branding and clean UI.
 
 <td width="33%" align="center">
 
-### ☀️ Sunshine Solar
-
 <img src="assets/sunshine-solar.png" width="260"/>
+
+<br/><br/>
+
+<b>Sunshine Solar</b>
 
 <br/>
 
-Modern solar business website designed for a professional digital presence.
+Modern solar business website with professional design.
 
 <br/><br/>
 
@@ -118,41 +122,64 @@ Modern solar business website designed for a professional digital presence.
 
 ---
 
-## 🛠️ What I Work With
+## 🌐 Let's Connect
 
 <div align="center">
 
-**Web Development**  
-HTML • CSS • JavaScript • TypeScript • React • Node.js
+<table>
+<tr>
 
-**Software Development**  
-Java • Python • OOP • APIs • Automation
+<td align="center" width="16.66%">
+<a href="https://github.com/fn-faizan-007">
+<img src="https://cdn.simpleicons.org/github/181717" width="42" />
+</a>
+</td>
 
-**Tools & Workflow**  
-VS Code • Git • GitHub • Linux • Figma
+<td align="center" width="16.66%">
+<a href="https://www.instagram.com/fn_faizan_007">
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="42" />
+</a>
+</td>
 
-**Currently Exploring**  
-AI • Automation • Software Architecture • Advanced Development
+<td align="center" width="16.66%">
+<a href="https://wa.me/923074707266">
+<img src="https://cdn.simpleicons.org/whatsapp/25D366" width="42" />
+</a>
+</td>
+
+<td align="center" width="16.66%">
+<a href="YOUR_X_URL">
+<img src="https://cdn.simpleicons.org/x/000000" width="42" />
+</a>
+</td>
+
+<td align="center" width="16.66%">
+<a href="YOUR_YOUTUBE_URL">
+<img src="https://cdn.simpleicons.org/youtube/FF0000" width="42" />
+</a>
+</td>
+
+<td align="center" width="16.66%">
+<a href="YOUR_FACEBOOK_URL">
+<img src="https://cdn.simpleicons.org/facebook/1877F2" width="42" />
+</a>
+</td>
+
+</tr>
+</table>
 
 </div>
 
----
+<br/>
 
-## 📌 My Development Mindset
+---
 
 <div align="center">
 
-```text
-       IDEA
-        ↓
-      LEARN
-        ↓
-      BUILD
-        ↓
-      TEST
-        ↓
-     IMPROVE
-        ↓
-      SHIP
-        ↓
-      REPEAT
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=450&lines=BUILD+%E2%80%A2+LEARN+%E2%80%A2+IMPROVE;Always+Learning.+Always+Building." />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:050505,50:111827,100:7C3AED" width="100%"/>
+
+</div>
