@@ -22,13 +22,13 @@
 
 <div align="center">
 
-### Hi, I'm Muhammad Faizan 
+### Hi, I'm Muhammad Faizan 👋
 
 **Data Science Student • Web Developer • Software Developer**
 
 I love turning ideas into real-world software and continuously improving my development skills.
 
-🎓 **BS Math With  Data Science** — COMSATS University Islamabad, Lahore Campus
+🎓 **BS Mathematics with Data Science** — COMSATS University Islamabad, Lahore Campus
 
 💻 Focused on **Web Development, Software Development, Java, Python & JavaScript**
 
@@ -168,7 +168,7 @@ Modern solar business website with professional design.
 <td align="center" width="14.28%">
 <a href="YOUR_THREADS_URL">
 
-<img src="https://cdn.simpleicons.org/threads/FFFFFF" alt="Threads" width="42"/>
+<img src="https://img.icons8.com/ios-filled/50/FFFFFF/threads.png" alt="Threads" width="42"/>
 
 </a>
 </td>
@@ -176,7 +176,7 @@ Modern solar business website with professional design.
 <td align="center" width="14.28%">
 <a href="YOUR_X_URL">
 
-<img src="https://cdn.simpleicons.org/x/FFFFFF" alt="X / Twitter" width="42"/>
+<img src="https://img.icons8.com/ios-filled/50/FFFFFF/twitterx.png" alt="X / Twitter" width="42"/>
 
 </a>
 </td>
