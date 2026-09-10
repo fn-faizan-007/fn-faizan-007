@@ -41,9 +41,9 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&dur
 
 ## 👨‍💻 Muhammad Faizan
 
-**Data Science Student • Web Developer • Software Developer**
+**Math with Data Science Student • Web Developer • Software Developer**
 
-🎓 BS Data Science — COMSATS University Islamabad
+🎓 BS Math Data Science — COMSATS University Islamabad
 
 💻 I build websites, software and developer tools.
 
