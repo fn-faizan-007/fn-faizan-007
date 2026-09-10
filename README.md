@@ -1,310 +1,194 @@
-<!-- ========================= -->
-<!--        HEADER             -->
-<!-- ========================= -->
-
 <div align="center">
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111827,100:4C1D95&height=190&section=header&text=MUHAMMAD%20FAIZAN&fontSize=44&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn"
-width="100%"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:111827,100:312E81&height=180&section=header&text=MUHAMMAD%20FAIZAN&fontSize=44&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%"/>
 
-<img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=850&lines=Data+Science+Student+%7C+Developer;Web+Developer+%7C+Software+Developer;Java+%7C+Python+%7C+JavaScript+%7C+TypeScript;Building+Ideas+Into+Real+Software;Always+Learning.+Always+Building."
-/>
-
-<br>
-
-<img src="assets/faizan.jpg" width="145" alt="Muhammad Faizan"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=800&lines=Data+Science+Student+%7C+Developer;Web+Developer+%7C+Software+Developer;Java+%7C+Python+%7C+JavaScript+%7C+TypeScript;Building+Ideas+Into+Real+Software" />
 
 <br><br>
 
-<a href="https://github.com/fn-faizan-007">
+<img src="assets/faizan.jpg" width="125" alt="Muhammad Faizan"/>
+
+<br><br>
+
 <img src="https://komarev.com/ghpvc/?username=fn-faizan-007&label=PROFILE+VIEWS&color=00D4FF&style=flat-square"/>
-</a>
-
-&nbsp;
-
-<a href="https://github.com/fn-faizan-007?tab=followers">
-<img src="https://img.shields.io/github/followers/fn-faizan-007?label=FOLLOWERS&style=flat-square&color=7C3AED&labelColor=050505"/>
-</a>
 
 </div>
 
-<br>
-
-<!-- ========================= -->
-<!--        ABOUT              -->
-<!-- ========================= -->
+---
 
 <div align="center">
 
 ## 👨‍💻 Muhammad Faizan
 
-**Math with Data Science Student • Web Developer • Software Developer**
+**Math Data Science Student • Web Developer • Software Developer**
 
-🎓 BS Math Data Science — COMSATS University Islamabad
+Building modern websites, software and developer tools.
 
-💻 I build websites, software and developer tools.
-
-🚀 Exploring **Java • Python • AI • TypeScript • VS Code Extensions**
+🎓 **BS Math Data Science — COMSATS University Islamabad Lahore Campus**
 
 <br>
 
-<img src="https://img.shields.io/badge/BUILD-00D4FF?style=flat-square&labelColor=050505"/>
-<img src="https://img.shields.io/badge/LEARN-7C3AED?style=flat-square&labelColor=050505"/>
-<img src="https://img.shields.io/badge/IMPROVE-F59E0B?style=flat-square&labelColor=050505"/>
+<img src="https://img.shields.io/badge/Java-050505?style=flat-square&logo=openjdk&logoColor=ED8B00"/>
+<img src="https://img.shields.io/badge/Python-050505?style=flat-square&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/JavaScript-050505?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/TypeScript-050505?style=flat-square&logo=typescript&logoColor=3178C6"/>
 
 </div>
 
 ---
 
-<!-- ========================= -->
-<!--       TECHNOLOGIES        -->
-<!-- ========================= -->
-
 <div align="center">
 
-## ⚡ Technologies
+## ⚡ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,nodejs,git,github,vscode&perline=9"/>
 
 <br>
 
-<img
-src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,nodejs,git,github,vscode&perline=10"
-/>
-
-<br><br>
-
-<img
-src="https://skillicons.dev/icons?i=react,figma,mysql,linux&perline=8"
-/>
+<img src="https://skillicons.dev/icons?i=react,mysql,linux,figma&perline=8"/>
 
 </div>
 
 ---
 
-<!-- ========================= -->
-<!--       FEATURED WORK       -->
-<!-- ========================= -->
+# 🚀 Featured Projects
 
 <div align="center">
 
-# 🚀 Featured Work
+<table>
+<tr>
 
-</div>
+<!-- PROJECT 1 -->
 
-<br>
-
-<!-- ========================= -->
-<!--       WSU CONSULTANT      -->
-<!-- ========================= -->
+<td width="33%" valign="top">
 
 <div align="center">
 
 ### 🌍 WSU Consultant
 
-<a href="https://wsuconsultant.com/">
-
-<img
-src="assets/wsu-consultant.png"
-width="92%"
-alt="WSU Consultant Website"
-/>
-
-</a>
+<img src="assets/wsu-consultant.png" width="100%" alt="WSU Consultant"/>
 
 <br>
 
-**Global Education & Study Abroad Consultancy Website**
+**Education & Study Abroad Consultancy**
 
 <br>
 
 <a href="https://wsuconsultant.com/">
-
-<img
-src="https://img.shields.io/badge/VIEW%20LIVE%20WEBSITE-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=050505"
-/>
-
+<img src="https://img.shields.io/badge/VISIT%20NOW-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=050505"/>
 </a>
 
 </div>
 
-<br><br>
+</td>
 
-<!-- ========================= -->
-<!--       BEST SOURCING       -->
-<!-- ========================= -->
+<!-- PROJECT 2 -->
+
+<td width="33%" valign="top">
 
 <div align="center">
 
 ### 👔 Best Sourcing
 
-<img
-src="assets/best-sourcing.png"
-width="92%"
-alt="Best Sourcing Website"
-/>
+<img src="assets/best-sourcing.png" width="100%" alt="Best Sourcing"/>
 
 <br>
 
-**Premium Garments & Fashion Sourcing Website**
+**Premium Garments & Fashion Sourcing**
 
 <br>
 
-<img
-src="https://img.shields.io/badge/WEB%20DESIGN-7C3AED?style=for-the-badge&labelColor=050505"
-/>
+<a href="#">
+<img src="https://img.shields.io/badge/VISIT%20NOW-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=050505"/>
+</a>
 
 </div>
 
-<br><br>
+</td>
 
-<!-- ========================= -->
-<!--       SUNSHINE SOLAR      -->
-<!-- ========================= -->
+<!-- PROJECT 3 -->
+
+<td width="33%" valign="top">
 
 <div align="center">
 
 ### ☀️ Sunshine Solar
 
-<a href="https://sunshinesolar1.com/">
-
-<img
-src="assets/sunshine-solar.png"
-width="92%"
-alt="Sunshine Solar Website"
-/>
-
-</a>
+<img src="assets/sunshine-solar.png" width="100%" alt="Sunshine Solar"/>
 
 <br>
 
-**Modern Solar Energy Business Website**
+**Modern Solar Energy Business**
 
 <br>
 
 <a href="https://sunshinesolar1.com/">
-
-<img
-src="https://img.shields.io/badge/VIEW%20LIVE%20WEBSITE-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=050505&labelColor=050505"
-/>
-
+<img src="https://img.shields.io/badge/VISIT%20NOW-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=050505&labelColor=050505"/>
 </a>
 
 </div>
 
----
+</td>
 
-<!-- ========================= -->
-<!--          GITHUB           -->
-<!-- ========================= -->
-
-<div align="center">
-
-## 📊 GitHub Activity
-
-<br>
-
-<img
-height="165"
-src="https://github-readme-stats.vercel.app/api?username=fn-faizan-007&show_icons=true&hide_border=true&bg_color=050505&title_color=00D4FF&icon_color=7C3AED&text_color=FFFFFF&count_private=true&include_all_commits=true"
-/>
-
-<img
-height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=fn-faizan-007&layout=compact&hide_border=true&bg_color=050505&title_color=00D4FF&text_color=FFFFFF&langs_count=6"
-/>
-
-<br><br>
-
-<img
-src="https://streak-stats.demolab.com?user=fn-faizan-007&background=050505&ring=00D4FF&fire=F59E0B&currStreakLabel=00D4FF&sideLabels=FFFFFF&dates=94A3B8&sideNums=FFFFFF&currStreakNum=FFFFFF&hide_border=true"
-/>
+</tr>
+</table>
 
 </div>
 
 ---
 
-<!-- ========================= -->
-<!--        CONNECT            -->
-<!-- ========================= -->
-
 <div align="center">
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
 <br>
 
 <a href="https://github.com/fn-faizan-007">
-<img
-src="https://skillicons.dev/icons?i=github"
-width="42"
-alt="GitHub"
-/>
+<img src="https://skillicons.dev/icons?i=github" width="38" alt="GitHub"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/fn_faizan_007">
-<img
-src="https://skillicons.dev/icons?i=instagram"
-width="42"
-alt="Instagram"
-/>
+<img src="https://skillicons.dev/icons?i=instagram" width="38" alt="Instagram"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://wa.me/923074707266">
-<img
-src="https://skillicons.dev/icons?i=whatsapp"
-width="42"
-alt="WhatsApp"
-/>
+<img src="https://skillicons.dev/icons?i=whatsapp" width="38" alt="WhatsApp"/>
 </a>
 
-</div>
+&nbsp;&nbsp;&nbsp;
 
-<br>
-
-<div align="center">
-
-<a href="https://github.com/fn-faizan-007">
-<img src="https://img.shields.io/badge/GitHub-fn--faizan--007-FFFFFF?style=flat-square&logo=github&logoColor=00D4FF&labelColor=050505"/>
+<a href="YOUR_FACEBOOK_URL">
+<img src="https://cdn.simpleicons.org/facebook/1877F2" width="38" alt="Facebook"/>
 </a>
 
-&nbsp;
+&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.instagram.com/fn_faizan_007">
-<img src="https://img.shields.io/badge/Instagram-fn__faizan__007-FFFFFF?style=flat-square&logo=instagram&logoColor=E1306C&labelColor=050505"/>
+<a href="YOUR_X_URL">
+<img src="https://cdn.simpleicons.org/x/FFFFFF" width="38" alt="X"/>
 </a>
 
-&nbsp;
+&nbsp;&nbsp;&nbsp;
 
-<a href="https://wa.me/923074707266">
-<img src="https://img.shields.io/badge/WhatsApp-03074707266-FFFFFF?style=flat-square&logo=whatsapp&logoColor=25D366&labelColor=050505"/>
+<a href="YOUR_YOUTUBE_URL">
+<img src="https://cdn.simpleicons.org/youtube/FF0000" width="38" alt="YouTube"/>
 </a>
 
 </div>
 
 ---
 
-<!-- ========================= -->
-<!--          FOOTER           -->
-<!-- ========================= -->
+<div align="center">
 
 <br>
 
-<div align="center">
-
-<img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=BUILD+%E2%80%A2+BREAK+%E2%80%A2+LEARN+%E2%80%A2+REBUILD;Turning+Ideas+Into+Real+Software"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=BUILD+%E2%80%A2+LEARN+%E2%80%A2+IMPROVE;Turning+Ideas+Into+Real+Software"/>
 
 <br><br>
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:111827,100:050505&height=120&section=footer"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:111827,100:050505&height=100&section=footer" width="100%"/>
 
 </div>
