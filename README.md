@@ -22,13 +22,13 @@
 
 <div align="center">
 
-### Hi, I'm Muhammad Faizan 👋
+### Hi, I'm Muhammad Faizan 
 
 **Data Science Student • Web Developer • Software Developer**
 
 I love turning ideas into real-world software and continuously improving my development skills.
 
-🎓 **BS Data Science** — COMSATS University Islamabad, Lahore Campus
+🎓 **BS Math With  Data Science** — COMSATS University Islamabad, Lahore Campus
 
 💻 Focused on **Web Development, Software Development, Java, Python & JavaScript**
 
@@ -141,64 +141,60 @@ Modern solar business website with professional design.
 <table>
 <tr>
 
-<td align="center" width="16.66%">
-
+<td align="center" width="14.28%">
 <a href="https://github.com/fn-faizan-007">
 
-<img src="https://cdn.simpleicons.org/github/FFFFFF" width="42"/>
+<img src="https://img.icons8.com/?size=48&id=12599&format=png" alt="GitHub" width="42"/>
 
 </a>
-
 </td>
 
-<td align="center" width="16.66%">
-
+<td align="center" width="14.28%">
 <a href="https://www.instagram.com/fn_faizan_007">
 
-<img src="https://cdn.simpleicons.org/instagram/E1306C" width="42"/>
+<img src="https://img.icons8.com/?size=48&id=32323&format=png" alt="Instagram" width="42"/>
 
 </a>
-
 </td>
 
-<td align="center" width="16.66%">
-
+<td align="center" width="14.28%">
 <a href="https://wa.me/923074707266">
 
-<img src="https://cdn.simpleicons.org/whatsapp/25D366" width="42"/>
+<img src="https://img.icons8.com/?size=48&id=16713&format=png" alt="WhatsApp" width="42"/>
 
 </a>
-
 </td>
 
-<td align="center" width="16.66%">
+<td align="center" width="14.28%">
+<a href="YOUR_THREADS_URL">
 
+<img src="https://cdn.simpleicons.org/threads/FFFFFF" alt="Threads" width="42"/>
+
+</a>
+</td>
+
+<td align="center" width="14.28%">
 <a href="YOUR_X_URL">
 
-<img src="https://cdn.simpleicons.org/x/FFFFFF" width="42"/>
+<img src="https://cdn.simpleicons.org/x/FFFFFF" alt="X / Twitter" width="42"/>
 
 </a>
-
 </td>
 
-<td align="center" width="16.66%">
-
+<td align="center" width="14.28%">
 <a href="YOUR_YOUTUBE_URL">
 
-<img src="https://cdn.simpleicons.org/youtube/FF0033" width="42"/>
+<img src="https://img.icons8.com/?size=48&id=19318&format=png" alt="YouTube" width="42"/>
 
 </a>
-
 </td>
 
-<td align="center" width="16.66%">
-
+<td align="center" width="14.28%">
 <a href="YOUR_FACEBOOK_URL">
 
-<img src="https://cdn.simpleicons.org/facebook/1877F2" width="42"/>
+<img src="https://img.icons8.com/?size=48&id=118497&format=png" alt="Facebook" width="42"/>
 
 </a>
-
 </td>
 
 </tr>
