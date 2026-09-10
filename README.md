@@ -133,6 +133,7 @@ Modern solar business website with professional design.
 </div>
 
 ---
+---
 
 ## 🌐 Let's Connect
 
@@ -141,7 +142,7 @@ Modern solar business website with professional design.
 <table>
 <tr>
 
-<td align="center" width="14.28%">
+<td align="center" width="20%">
 <a href="https://github.com/fn-faizan-007">
 
 <img src="https://img.icons8.com/?size=48&id=12599&format=png" alt="GitHub" width="42"/>
@@ -149,7 +150,7 @@ Modern solar business website with professional design.
 </a>
 </td>
 
-<td align="center" width="14.28%">
+<td align="center" width="20%">
 <a href="https://www.instagram.com/fn_faizan_007">
 
 <img src="https://img.icons8.com/?size=48&id=32323&format=png" alt="Instagram" width="42"/>
@@ -157,7 +158,7 @@ Modern solar business website with professional design.
 </a>
 </td>
 
-<td align="center" width="14.28%">
+<td align="center" width="20%">
 <a href="https://wa.me/923074707266">
 
 <img src="https://img.icons8.com/?size=48&id=16713&format=png" alt="WhatsApp" width="42"/>
@@ -165,23 +166,7 @@ Modern solar business website with professional design.
 </a>
 </td>
 
-<td align="center" width="14.28%">
-<a href="YOUR_THREADS_URL">
-
-<img src="https://img.icons8.com/ios-filled/50/FFFFFF/threads.png" alt="Threads" width="42"/>
-
-</a>
-</td>
-
-<td align="center" width="14.28%">
-<a href="YOUR_X_URL">
-
-<img src="https://img.icons8.com/ios-filled/50/FFFFFF/twitterx.png" alt="X / Twitter" width="42"/>
-
-</a>
-</td>
-
-<td align="center" width="14.28%">
+<td align="center" width="20%">
 <a href="YOUR_YOUTUBE_URL">
 
 <img src="https://img.icons8.com/?size=48&id=19318&format=png" alt="YouTube" width="42"/>
@@ -189,7 +174,7 @@ Modern solar business website with professional design.
 </a>
 </td>
 
-<td align="center" width="14.28%">
+<td align="center" width="20%">
 <a href="YOUR_FACEBOOK_URL">
 
 <img src="https://img.icons8.com/?size=48&id=118497&format=png" alt="Facebook" width="42"/>
@@ -199,6 +184,16 @@ Modern solar business website with professional design.
 
 </tr>
 </table>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=450&lines=Always+Learning.+Always+Building.;Turning+Ideas+Into+Real+Software." />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:07111F,50:0B1F33,100:123B5D" width="100%"/>
+
+</div>
 
 </div>
 
