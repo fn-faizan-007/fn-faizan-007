@@ -199,14 +199,4 @@ Modern solar business website with professional design.
 
 <br/>
 
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=450&lines=Always+Learning.+Always+Building.;Turning+Ideas+Into+Real+Software." />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:07111F,50:0B1F33,100:123B5D" width="100%"/>
-
-</div>
+-
