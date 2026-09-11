@@ -167,7 +167,7 @@ Modern solar business website with professional design.
 </td>
 
 <td align="center" width="20%">
-<a href="www.youtube.com/@webrisemediapk">
+<a href="https://www.youtube.com/@webrisemediapk">
 
 <img src="https://img.icons8.com/?size=48&id=19318&format=png" alt="YouTube" width="42"/>
 
