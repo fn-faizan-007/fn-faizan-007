@@ -180,16 +180,6 @@ SEO, digital marketing and technology solutions for modern businesses.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=fn-faizan-007&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF&bg_color=07111F" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fn-faizan-007&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=FFFFFF&bg_color=07111F" height="180"/>
-
-</div>
-
 <br/>
 
 <div align="center">
