@@ -107,7 +107,7 @@ Premium garments sourcing website with a modern UI.
 
 <a href="https://www.webrisemediapk.site/">
 
-<img src="assets/web-rise-media.png" width="260"/>
+<img src="assets/webrisemedia.png" width="260"/>
 
 </a>
 
