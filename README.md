@@ -4,11 +4,11 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Data+Science+Student+%7C+Developer;Web+Developer+%7C+Software+Developer;Java+%7C+Python+%7C+JavaScript+%7C+TypeScript;Building+Ideas+Into+Real+Software;Always+Learning.+Always+Building." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Data+Science+Student+%7C+Developer;Web+Developer+%7C+Software+Developer;Java+%7C+Python+%7C+JavaScript+%7C+TypeScript;Building+Ideas+Into+Real+Software;Always+Learning.+Always+Building." />
 
 <br/><br/>
 
-<img src="assets/faizan.jpg" width="125" height="125" />
+<img src="assets/faizan.jpg" width="125" height="125" style="border-radius:50%;" />
 
 <br/><br/>
 
@@ -18,9 +18,9 @@
 
 ---
 
-## 👨‍💻 WHO AM I?
-
 <div align="center">
+
+## 👨‍💻 WHO AM I?
 
 ### Hi, I'm Muhammad Faizan 👋
 
@@ -65,16 +65,16 @@ I love turning ideas into real-world software and continuously improving my deve
 
 <br/><br/>
 
-<b>WSU Consultant</b>
-
-<br/><br/>
+<h3>WSU Consultant</h3>
 
 Education & Study Abroad Consultancy Website.
 
 <br/><br/>
 
 <a href="https://wsuconsultant.com/">
+
 <img src="https://img.shields.io/badge/VISIT%20NOW-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+
 </a>
 
 </td>
@@ -89,40 +89,40 @@ Education & Study Abroad Consultancy Website.
 
 <br/><br/>
 
-<b>Best Sourcing</b>
+<h3>Best Sourcing</h3>
 
-<br/><br/>
-
-Premium garments sourcing website with modern UI.
+Premium garments sourcing website with a modern UI.
 
 <br/><br/>
 
 <a href="#">
+
 <img src="https://img.shields.io/badge/VISIT%20NOW-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+
 </a>
 
 </td>
 
 <td width="33%" align="center">
 
-<a href="https://sunshinesolar1.com/">
+<a href="https://www.webrisemediapk.site/">
 
-<img src="assets/sunshine-solar.png" width="260"/>
+<img src="assets/web-rise-media.png" width="260"/>
 
 </a>
 
 <br/><br/>
 
-<b>Sunshine Solar</b>
+<h3>Web Rise Media</h3>
+
+Freelancing agency providing web development, SEO, digital marketing, AI ads and video editing services.
 
 <br/><br/>
 
-Modern solar business website with professional design.
+<a href="https://www.webrisemediapk.site/">
 
-<br/><br/>
+<img src="https://img.shields.io/badge/VISIT%20NOW-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 
-<a href="https://sunshinesolar1.com/">
-<img src="https://img.shields.io/badge/VISIT%20NOW-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </td>
@@ -133,6 +133,71 @@ Modern solar business website with professional design.
 </div>
 
 ---
+
+## 🛠️ What I Do
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="25%" align="center">
+
+### 🌐 Web Development
+
+Modern, responsive and professional websites built with modern web technologies.
+
+</td>
+
+<td width="25%" align="center">
+
+### 💻 Software Development
+
+Building practical software solutions with clean and maintainable code.
+
+</td>
+
+<td width="25%" align="center">
+
+### 🤖 AI & Automation
+
+Exploring AI-powered applications, automation and intelligent software solutions.
+
+</td>
+
+<td width="25%" align="center">
+
+### 📈 Digital Solutions
+
+SEO, digital marketing and technology solutions for modern businesses.
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=fn-faizan-007&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF&bg_color=07111F" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fn-faizan-007&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=FFFFFF&bg_color=07111F" height="180"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fn-faizan-007&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=FFFFFF&dates=FFFFFF" />
+
+</div>
+
 ---
 
 ## 🌐 Let's Connect
@@ -143,43 +208,73 @@ Modern solar business website with professional design.
 <tr>
 
 <td align="center" width="20%">
+
 <a href="https://github.com/fn-faizan-007">
 
 <img src="https://img.icons8.com/?size=48&id=12599&format=png" alt="GitHub" width="42"/>
 
 </a>
+
+<br/>
+
+<b>GitHub</b>
+
 </td>
 
 <td align="center" width="20%">
+
 <a href="https://www.instagram.com/fn_faizan_007">
 
 <img src="https://img.icons8.com/?size=48&id=32323&format=png" alt="Instagram" width="42"/>
 
 </a>
+
+<br/>
+
+<b>Instagram</b>
+
 </td>
 
 <td align="center" width="20%">
+
 <a href="https://wa.me/923074707266">
 
 <img src="https://img.icons8.com/?size=48&id=16713&format=png" alt="WhatsApp" width="42"/>
 
 </a>
+
+<br/>
+
+<b>WhatsApp</b>
+
 </td>
 
 <td align="center" width="20%">
+
 <a href="https://www.youtube.com/@webrisemediapk">
 
 <img src="https://img.icons8.com/?size=48&id=19318&format=png" alt="YouTube" width="42"/>
 
 </a>
+
+<br/>
+
+<b>YouTube</b>
+
 </td>
 
 <td align="center" width="20%">
-<a href="https://www.facebook.com/profile.php?id=61554152920704&rdid=w6wo3C3lvntHHYL5&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1BFRe3DTRm%2F#">
+
+<a href="https://www.facebook.com/profile.php?id=61554152920704">
 
 <img src="https://img.icons8.com/?size=48&id=118497&format=png" alt="Facebook" width="42"/>
 
 </a>
+
+<br/>
+
+<b>Facebook</b>
+
 </td>
 
 </tr>
@@ -187,16 +282,10 @@ Modern solar business website with professional design.
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=450&lines=Always+Learning.+Always+Building.;Turning+Ideas+Into+Real+Software." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Always+Learning.+Always+Building.;Turning+Ideas+Into+Real+Software.;Building+The+Future+One+Project+At+A+Time." />
 
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:07111F,50:0B1F33,100:123B5D" width="100%"/>
 
 </div>
-
-</div>
-
-<br/>
-
--
