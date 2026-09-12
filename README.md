@@ -177,19 +177,6 @@ SEO, digital marketing and technology solutions for modern businesses.
 </table>
 
 </div>
-
----
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fn-faizan-007&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=FFFFFF&dates=FFFFFF" />
-
-</div>
-
----
-
 ## 🌐 Let's Connect
 
 <div align="center">
