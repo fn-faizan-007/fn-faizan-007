@@ -1,7 +1,3 @@
-<table width="100%" bgcolor="#07111F">
-<tr>
-<td>
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=MUHAMMAD%20FAIZAN&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&color=0:07111F,50:0B1F33,100:123B5D" width="100%"/>
@@ -12,15 +8,13 @@
 
 <br/><br/>
 
-<img src="assets/faizan.jpg" width="125" height="125" />
+<img src="assets/faizan.jpg" width="125" height="125" style="border-radius:50%;" />
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=fn-faizan-007&label=Profile%20Views&color=38BDF8&style=for-the-badge" />
 
 </div>
-
-<br/>
 
 ---
 
@@ -34,16 +28,9 @@
 
 I love turning ideas into real-world software and continuously improving my development skills.
 
-<br/>
-
-🎓 **BS Mathematics with Data Science**
-**COMSATS University Islamabad — Lahore Campus**
-
-<br/>
+🎓 **BS Mathematics with Data Science** — COMSATS University Islamabad, Lahore Campus
 
 💻 Focused on **Web Development, Software Development, Java, Python & JavaScript**
-
-<br/>
 
 🚀 Exploring **AI, Automation & Modern Software Development**
 
@@ -59,18 +46,16 @@ I love turning ideas into real-world software and continuously improving my deve
 
 </div>
 
-<br/>
-
 ---
 
 ## 🚀 Featured Work
 
 <div align="center">
 
-<table width="100%">
+<table>
 <tr>
 
-<td width="33%" align="center" valign="top">
+<td width="33%" align="center">
 
 <a href="https://wsuconsultant.com/">
 
@@ -94,7 +79,7 @@ Education & Study Abroad Consultancy Website.
 
 </td>
 
-<td width="33%" align="center" valign="top">
+<td width="33%" align="center">
 
 <a href="#">
 
@@ -118,11 +103,11 @@ Premium garments sourcing website with a modern UI.
 
 </td>
 
-<td width="33%" align="center" valign="top">
+<td width="33%" align="center">
 
 <a href="https://www.webrisemediapk.site/">
 
-<img src="assets/web-rise-media.png" width="260"/>
+<img src="assets/webrisemedia.png" width="260"/>
 
 </a>
 
@@ -153,7 +138,7 @@ Freelancing agency providing web development, SEO, digital marketing, AI ads and
 
 <div align="center">
 
-<table width="100%">
+<table>
 <tr>
 
 <td width="25%" align="center">
@@ -195,11 +180,31 @@ SEO, digital marketing and technology solutions for modern businesses.
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=fn-faizan-007&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF&bg_color=07111F" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fn-faizan-007&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=FFFFFF&bg_color=07111F" height="180"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fn-faizan-007&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=FFFFFF&dates=FFFFFF" />
+
+</div>
+
+---
+
 ## 🌐 Let's Connect
 
 <div align="center">
 
-<table width="80%">
+<table>
 <tr>
 
 <td align="center" width="20%">
@@ -275,7 +280,7 @@ SEO, digital marketing and technology solutions for modern businesses.
 </tr>
 </table>
 
-<br/><br/>
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Always+Learning.+Always+Building.;Turning+Ideas+Into+Real+Software.;Building+The+Future+One+Project+At+A+Time." />
 
@@ -284,7 +289,3 @@ SEO, digital marketing and technology solutions for modern businesses.
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:07111F,50:0B1F33,100:123B5D" width="100%"/>
 
 </div>
-
-</td>
-</tr>
-</table>
